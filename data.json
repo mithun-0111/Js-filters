@@ -1,0 +1,228 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "title": "BlueDog",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 2,
+      "title": "Popular Group",
+      "company_size": "medium",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "10"
+    },
+    {
+      "id": 3,
+      "title": "Srijan Technologies",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "20"
+    },
+    {
+      "id": 4,
+      "title": "Specbee Consulting services",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": true,
+      "women_emp": "20"
+    },
+    {
+      "id": 5,
+      "title": "TCS",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "50"
+    },
+    {
+      "id": 6,
+      "title": "Infosys",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": true,
+      "women_emp": "25"
+    },
+    {
+      "id": 7,
+      "title": "Indegene",
+      "company_size": "small",
+      "flexible": false,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 8,
+      "title": "Light & Wonder",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 9,
+      "title": "BlueDOg",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 10,
+      "title": "Popular Group",
+      "company_size": "medium",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "10"
+    },
+    {
+      "id": 11,
+      "title": "Srijan Technologies",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "20"
+    },
+    {
+      "id": 12,
+      "title": "Specbee Consulting services",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": true,
+      "women_emp": "20"
+    },
+    {
+      "id": 13,
+      "title": "TCS",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "50"
+    },
+    {
+      "id": 14,
+      "title": "Infosys",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": true,
+      "women_emp": "25"
+    },
+    {
+      "id": 15,
+      "title": "Indegene",
+      "company_size": "small",
+      "flexible": false,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 16,
+      "title": "Light & Wonder",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },  {
+      "id": 17,
+      "title": "BlueDOg",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 18,
+      "title": "Popular Group",
+      "company_size": "medium",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "10"
+    },
+    {
+      "id": 19,
+      "title": "Srijan Technologies",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "20"
+    },
+    {
+      "id": 20,
+      "title": "Specbee Consulting services",
+      "company_size": "small",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": true,
+      "women_emp": "20"
+    },
+    {
+      "id": 21,
+      "title": "TCS",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": false,
+      "women_emp": "50"
+    },
+    {
+      "id": 22,
+      "title": "Infosys",
+      "company_size": "large",
+      "flexible": false,
+      "401k_match": true,
+      "medical_paid": true,
+      "women_emp": "25"
+    },
+    {
+      "id": 23,
+      "title": "Indegene",
+      "company_size": "small",
+      "flexible": false,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 24,
+      "title": "Light & Wonder",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    },
+    {
+      "id": 24,
+      "title": "Light & Wonder",
+      "company_size": "medium",
+      "flexible": true,
+      "401k_match": false,
+      "medical_paid": false,
+      "women_emp": "60"
+    }
+  ]
+}

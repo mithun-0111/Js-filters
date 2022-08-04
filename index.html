@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS Filters</title>
+  <style>
+    li {
+      cursor: pointer;
+    }
+
+    .hidden {
+      display: none;
+    
+    }
+
+    .block {
+      display: block;
+    }
+
+    .active {
+      color: red;
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <div class="company-lists">
+    <h1 style="text-align: center; background-color: black; padding: 20px; color:white"> Company Lists</h1>
+    <div class="company" data-filter="small flexible match medical women">
+      <h1 class="list-company"> BlueDog - Small Flexible Match Medical More-women</h1>
+    </div>
+    <div class="company" data-filter="medium match medical">
+      <h1 class="list-company"> Infosys - Medium Match Medical</h1>
+    </div>
+    <div class="company" data-filter="large flexible  women">
+      <h1 class="list-company" > TCS - Large Flexible More-women</h1>
+    </div>
+    <div class="company" data-filter="small  match medical ">
+      <h1 class="list-company"> Wonder - Small Match Medical</h1>
+    </div>
+    <div class="company" data-filter="medium flexible  medical women">
+      <h1 class="list-company"> Wipro - Medium Flexible Medical</h1>
+    </div>
+    <div class="company" data-filter="large  match ">
+      <h1 class="list-company"> Srijan - Large Match</h1>
+    </div>
+    <div class="company" data-filter="small flexible  medical women">
+      <h1 class="list-company" > Specbee - Small Flexible Medical More-women</h1>
+    </div>
+    <div class="company" data-filter="medium match medical ">
+      <h1 class="list-company"> Acquia - Medium Match Medical</h1>
+    </div>
+    <div class="company" data-filter="large flexible match ">
+      <h1 class="list-company"> Srijan - Large Flexible Match</h1>
+    </div>
+  </div>
+  <ul class="filters">
+    <li data-type="small">Small</li>
+    <li data-type="medium">Medium</li>
+    <li data-type="large">Large</li>
+    <li data-type="flexible">Flexible</li>
+    <li data-type="match">401Match</li>
+    <li data-type="medical">Medical Facilites Provided</li>
+    <li data-type="women">More WOment Employees</li>
+  </ul>
+  <script src="./dist/index.js"></script>
+</body>
+</html>
